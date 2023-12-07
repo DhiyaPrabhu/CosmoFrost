@@ -1,0 +1,7 @@
+ISS Component,Estimated Energy Usage (kW),Estimated Spatial Footprint (m³)
+External Thermal Control System (ETCS) Radiators,10,15
+Internal Active Thermal Control System (IATCS),5,8
+Heat Exchangers and Pumps,3,5
+Water Coolant Loop,2,4
+Ammonia Coolant Loop,2,6
+Total Estimated Values,22,38
